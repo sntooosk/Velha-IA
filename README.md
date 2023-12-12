@@ -11,9 +11,9 @@ Este projeto consiste em um jogo da velha desenvolvido em Java, utilizando o amb
 - Reinício do jogo.
 
 ## Galeria do sistema
-<img src="https://raw.githubusercontent.com/DevSntosx71/Velha-IA/main/github/galeria1.png" alt="Captura 1" width="200">
-<img src="https://raw.githubusercontent.com/DevSntosx71/Velha-IA/main/github/galeria2.png" alt="Captura 2" width="200">
-<img src="https://raw.githubusercontent.com/DevSntosx71/Velha-IA/main/github/galeria3.png" alt="Captura 3" width="200">
+<img src="https://raw.githubusercontent.com/DevSntosx71/Velha-IA/main/github/galeria1.png" alt="Captura 1" width="300">
+<img src="https://raw.githubusercontent.com/DevSntosx71/Velha-IA/main/github/galeria2.png" alt="Captura 2" width="300">
+<img src="https://raw.githubusercontent.com/DevSntosx71/Velha-IA/main/github/galeria3.png" alt="Captura 3" width="300">
 
 
 ## Requisitos do Sistema
